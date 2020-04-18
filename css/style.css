@@ -1,0 +1,89 @@
+.home-list {
+    text-align: center;
+    margin: 0 auto;
+}
+.home-list li{
+    list-style: none;
+    display: inline-block;
+padding: 15px;
+ vertical-align: middle;
+
+}
+.picture {
+    width: 100%;
+    height: 340px;
+    background-image: url("../images/maja-petric-8287.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h1 {
+    font-family: "Google Sans";
+    font-size: 40px;
+    opacity: 1;
+}
+p {
+    font-family: "Google Sans";
+    font-size: 16px;
+}
+
+.text_section{
+    margin: 87px 78px 116px 78px;
+}
+
+.text{
+    display: inline-block;
+    text-align: left;
+    width: 47%;
+    height: 98px;
+}
+
+#text{
+
+    vertical-align: top;
+}
+#text_2{
+
+    vertical-align: top;
+}
+.text_marg {
+    margin-right: 50px;
+}
+.box {
+    width: 100%;
+    margin: 365px;
+    height: 768px;
+    background-color: #EEEEEE ;
+    margin: 0 auto;
+}
+.map{
+    text-align: center;
+    position: relative;
+}
+.map img{
+    margin: 110px auto;
+    width: 666px;
+    height: 548px;
+    opacity: 1;
+
+}
+.fotoText {
+    width: 300px;
+    height: 170px;
+    position: absolute;
+    top: 476px;
+    left: 185px;
+    text-align: left;
+
+}
+.foot {
+    height: 50px;
+    background: #212121 0% 0% no-repeat padding-box;
+    opacity: 1;
+    text-align: center;
+    position: relative;
+padding: 10px;}
+.footText {
+    position: absolute;
+    right: 30px;
+    bottom: 30px;
+}
